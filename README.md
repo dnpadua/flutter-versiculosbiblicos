@@ -1,16 +1,22 @@
-# versiculododia_app
+## 📜 Versículos bíblicos
+<h1 align="center">
+    <img alt="ImageApp" title="ImageApp" src="gif-app.gif"/>
+</h1>
 
-A new Flutter application.
+## 👨‍💻 Sobre o projeto
 
-## Getting Started
+O aplicativo Versículos bíblicos teve como principal objetivo o entendimento dos principais fundamentos é aspectos para criar a primeira aplicação em Flutter.
 
-This project is a starting point for a Flutter application.
+Conheça mais da tecnologia utilizada no projeto em:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📄 Licença
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O projeto está sob a licença MIT, saiba mais em:
+
+[LICENSE](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)
+
+---
+
+Feito com ❤️ por Daniel Pádua
